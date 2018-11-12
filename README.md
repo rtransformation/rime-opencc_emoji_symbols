@@ -4,7 +4,7 @@
 使用方法
 将es.txt和es.json放入Rime输入法的opencc文件夹下。 在你所使用的方案的xxxx.schema.yaml文件的相应位置加入如下代码（注意缩进）：
 
-`
+```
 switches:
   - name: show_es
     reset: 1
@@ -17,6 +17,6 @@ engine:
 es_conversion:
   opencc_config: es.json
   option_name: show_es
-`
+```
 
 加入后重新部署，就可以使用了。
