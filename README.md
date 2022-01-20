@@ -12,7 +12,8 @@
 
 #### 使用方法
 
-将es.txt和es.json放入Rime输入法的opencc文件夹下，使用ocd2时需要把json文件中的相应内容改成ocd2。  
+将es.txt和es.json放入Rime输入法的opencc文件夹下，使用ocd2时需要把json文件中的相应内容改成ocd2。
+ocd2和txt使用其中一个就好了。
 在你所使用的方案的xxxx.schema.yaml文件的「相应」位置加入如下代码（注意缩进）：
 
 ```
