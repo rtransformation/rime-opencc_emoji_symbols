@@ -1,7 +1,7 @@
 # Rime输入法Emoji与符号滤镜
 
 #### 最新更新（仅记录大更新）
-2026.03.16 新增Unicode 17.0新增Emoji。 
+2026.03.16 新增Unicode 17.0新增Emoji。  
 2024.07.30 新增iOS17.4更新的Emoji表情。  
 2023.06.12 新增iOS16.4更新的Emoji表情。  
 2022.10.17 新增Unicode 15.0 新增Emoji。  
