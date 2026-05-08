@@ -1,0 +1,13 @@
+# encoding: utf-8
+patch:
+  switches/@next:
+    name: show_es
+    reset: 1
+    states: [ "🈚︎😔", "🈶️😀" ]
+  'engine/filters/@before 0':
+    simplifier@es_conversion
+  es_conversion:
+    opencc_config: es.json
+    option_name: show_es
+    tips: none
+    inherit_comment: false

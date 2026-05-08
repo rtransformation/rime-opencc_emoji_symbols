@@ -1,5 +1,5 @@
 {
-  "name": "Chinese to Emoji",
+  "name": "Chinese to Emoji Symbol",
   "segmentation": {
     "type": "mmseg",
     "dict": {
